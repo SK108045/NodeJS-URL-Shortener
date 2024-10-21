@@ -19,6 +19,6 @@ A simple and efficient URL shortener built with modern technologies to create an
 ![UI Screenshot](https://shorturl.sk10codebase.online/Url_Shortner.png)
 
 ## Live Demo
-You can try the live version of the app [here](https://shorturl.sk10codebase.online).
+You can try the live version of the app [here](https://shorturl.sk10codebase.online)
 
 ---
