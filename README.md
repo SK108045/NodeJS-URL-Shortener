@@ -1,5 +1,5 @@
 # NodeJS-URL-Shortener
-A simple and efficient URL shortener built with modern technologies to create and manage shortened URLs.
+A simple and efficient URL shortener website built with modern technologies to create and manage shortened URLs.
 
 ## Features
 ![UI Screenshot](https://shorturl.sk10codebase.online/Url_Shortner.png)
